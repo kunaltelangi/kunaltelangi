@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Telangi</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunaltelangi&label=Profile%20views&color=b64ac4&style=flat" alt="kunaltelangi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunaltelangi" alt="kunaltelangi" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://kunaltelangi.bio.link/](https://kunaltelangi.bio.link/)
+- 👨‍💻 Website [https://kunaltelangi.bio.link/](https://kunaltelangi.bio.link/)
 
 - 💬 Ask me about **Competative Programming, Qt5**
 
