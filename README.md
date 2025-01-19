@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Telangi</h1>
 
-- 👨‍💻 Website [https://kunaltelangi.bio.link/](https://kunaltelangi.bio.link/)
-
 - 💬 Ask me about **Competative Programming, Qt5**
 
 - 📫 How to reach me **kunaltelangi786@gmail.com**
